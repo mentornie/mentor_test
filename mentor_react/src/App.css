@@ -7,17 +7,17 @@ body {
 
   background: #136a8a; 
 
-  background-image: linear-gradient(to left bottom, #0047b6, #6870c9, #9f9ddb, #d0cded, #ffffff);
-
+  background-image: linear-gradient(to bottom, #0047b6, #3a68ca, #608add, #86aced, #afcefd);
+  color: #ffb300;
 }
-
+/*
 .pages {
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
   font-size: 5rem;
-}
+}*/
 
 @media only screen and (max-width: 768px) {
   .pages {

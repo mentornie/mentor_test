@@ -1,10 +1,10 @@
 import React from "react";
-
+import './Introduction.css';
 const Introduction = () => {
   return (
-    <>
-      <h1>About</h1>
-    </>
+    <div>
+      <h1 className="header">WELCOME TO MENTOR</h1>
+    </div>
   );
 };
 
