@@ -5,10 +5,11 @@ html {
 body {
   height: 100vh;
 
-  background: #136a8a; 
+  background: #004786; 
 
-  background-image: linear-gradient(to bottom, #0047b6, #3a68ca, #608add, #86aced, #afcefd);
-  color: #ffb300;
+  background-image: linear-gradient(to left, #0047b6, #9bbef3);
+  color:black;
+  /*color: #ffb300;*/
 }
 /*
 .pages {
